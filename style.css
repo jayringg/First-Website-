@@ -1,0 +1,47 @@
+/*header content*/
+header{
+	background: #cd5c5c;
+	padding-top: 40px;
+	border-bottom: black 3px solid;
+}
+header a{
+	color:#fffacd;
+	text-decoration:none;
+	
+}
+header ul{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+header li{
+	display: inline;
+	padding: 0 40px 0 40px;
+}
+h1{
+	color:#fffacd;
+	text-align: center;
+
+}
+p{
+	font-style: helvetica;
+	font-size: 18px;
+}
+footer {
+	text-align: center;
+}
+img{
+	display:block;
+	width: 200px;
+	height:200px;
+	border-radius: 8px;
+	
+	margin:0;
+	padding:0;
+}
+/*backround image*/ 
+#babyyoda{
+
+max-width:100%;
+height:auto;
+}
